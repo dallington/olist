@@ -7,13 +7,13 @@ Instale e/ou atualize o [NodeJS com NPM](https://nodejs.org/en/) em sua máquina
 
 ## Build Setup
 
-# install dependencies
+### install dependencies
 npm install
 
-# init serve localhost:3000
+### init serve localhost:3000
 gulp dev
 
-# build for production with minification
+### build for production with minification
 gulp dist
 
 ### Considerações
